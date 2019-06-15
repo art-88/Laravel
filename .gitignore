@@ -1,0 +1,12 @@
+/sample-app/node_modules
+/sample-app/public/hot
+/sample-app/public/storage
+/sample-app/storage/*.key
+/sample-app/vendor
+/sample-app/.idea
+/sample-app/Homestead.json
+/sample-app/Homestead.yaml
+/sample-app/npm-debug.log
+/sample-app/yarn-error.log
+/sample-app/.env
+/sample-app/.phpunit.result.cache
