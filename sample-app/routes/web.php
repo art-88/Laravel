@@ -18,3 +18,7 @@ Route::get('/', function () {
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+Route::namespace('Recipe')->prefix('recipe')->group(function () {
+    Route::get('/', 'RecipeController@index')->name('recipeList');
+    Route::get('/edit', 'RecipeController@edit')->name('recipeEdit');
+});
