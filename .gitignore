@@ -1,3 +1,4 @@
+.idea/
 /sample-app/node_modules
 /sample-app/public/hot
 /sample-app/public/storage
@@ -9,4 +10,4 @@
 /sample-app/yarn-error.log
 /sample-app/.env
 /sample-app/.phpunit.result.cache
-/.idea
+/sample-app/.idea/
