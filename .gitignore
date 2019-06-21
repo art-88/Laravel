@@ -9,8 +9,8 @@
 /sample-app/yarn-error.log
 /sample-app/.env
 /sample-app/.phpunit.result.cache
-/sample-app/.idea/
-/sample-app/tmp/
-/sample-app/bin/
+/.idea/
+/tmp/
+/bin/
 *.test
 *.swp
