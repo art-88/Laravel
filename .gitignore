@@ -1,6 +1,4 @@
 /sample-app/node_modules
-/sample-app/public/hot
-/sample-app/public/storage
 /sample-app/storage/*.key
 /sample-app/vendor
 /sample-app/Homestead.json
